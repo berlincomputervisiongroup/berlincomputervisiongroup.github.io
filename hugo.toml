@@ -46,6 +46,21 @@ pygmentsCodefencesGuessSyntax = true
 #  src = "img/hexagon.jpg"
 #  desc = "Hexagon"
 
+[[Params.bigimg]]
+  src = "img/google_earth_images/berlin.jpg"
+[[Params.bigimg]]  
+  src = "img/google_earth_images/google-earth-view-1676.jpg"
+[[Params.bigimg]]
+  src = "img/google_earth_images/google-earth-view-5855.jpg"
+[[Params.bigimg]]
+  src = "img/google_earth_images/google-earth-view-6018.jpg"
+[[Params.bigimg]]
+  src = "img/google_earth_images/google-earth-view-13747.jpg"
+[[Params.bigimg]]
+  src = "img/google_earth_images/google-earth-view-13891.jpg"
+[[Params.bigimg]]
+  src = "img/google_earth_images/google-earth-view-13897.jpg"
+
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Antonio Rueda-Toicen"
