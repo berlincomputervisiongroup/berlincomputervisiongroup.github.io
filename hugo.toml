@@ -52,8 +52,8 @@ pygmentsCodefencesGuessSyntax = true
   src = "img/google_earth_images/google-earth-view-1676.jpg"
 [[Params.bigimg]]
   src = "img/google_earth_images/google-earth-view-5855.jpg"
-[[Params.bigimg]]
-  src = "img/google_earth_images/google-earth-view-6018.jpg"
+#[[Params.bigimg]]
+#  src = "img/google_earth_images/google-earth-view-6018.jpg"
 [[Params.bigimg]]
   src = "img/google_earth_images/google-earth-view-13747.jpg"
 [[Params.bigimg]]
